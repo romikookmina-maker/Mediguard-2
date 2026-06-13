@@ -1,0 +1,6 @@
+{
+  "name": "MediGuard",
+  "description": "Smart Pillbox companion with dual Senior and Caregiver interfaces, IoT telemetry simulation, and automated clinical insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
